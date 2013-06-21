@@ -1,11 +1,11 @@
 {
   "built_on": "master",
-  "duration": 114.216,
-  "full_display_name": "com.cedarsoft.unit #80",
-  "id": "2013-06-20_02-03-11",
-  "number": 80,
+  "duration": 132.64,
+  "full_display_name": "com.cedarsoft.unit #81",
+  "id": "2013-06-21_02-03-11",
+  "number": 81,
   "result": "SUCCESS",
   "status_message": "?",
-  "time": "2013-06-20 02:03:11 +0200",
-  "url": "job/com.cedarsoft.unit/80/"
+  "time": "2013-06-21 02:03:11 +0200",
+  "url": "job/com.cedarsoft.unit/81/"
 }
